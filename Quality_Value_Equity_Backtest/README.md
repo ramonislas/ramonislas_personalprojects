@@ -40,10 +40,10 @@ Weighting: 40% profitability, −20% earnings quality (accruals penalize), lever
 | Sharpe Ratio | 0.555 | 0.644 |
 | 1-Day 95% VaR | 1.96% | 2.17% |
 | 1-Day 95% CVaR | 3.26% | 3.46% |
-| Fama-French R² | 92.9% | 94.7% |
+| Fama-French 5 R² | 92.9% | 94.7% |
 | FF5 Alpha (annualized) | Not significant | Not significant |
 | Market Beta | 1.011 | 1.086 |
-| SMB Loading | 0.770 | 0.644 |
+
 
 Additional metrics computed: annualized returns, annualized volatility, max drawdown, Sortino ratio, downside deviation, tracking error, and rolling year-by-year breakdowns for all metrics.
 
