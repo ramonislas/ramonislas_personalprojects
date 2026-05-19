@@ -51,7 +51,7 @@ Additional metrics computed: annualized returns, annualized volatility, max draw
 
 ## Factor Analysis
 
-OLS regression on Fama-French 5-factor model (Mkt-RF, SMB, HML, RMW, CMA) with HAC standard errors (Newey-West, 63-day lag):
+OLS regression on Fama-French 5-factor model (Mkt-RF, SMB, HML, RMW, CMA):
 
 - **QV Portfolio**: Strong small-cap tilt (SMB 0.770), moderate profitability exposure (RMW 0.372), mild value exposure (HML 0.120). No statistically significant alpha.
 - **JG Portfolio**: Higher market beta (1.086), negative profitability exposure (RMW −0.087), strong small-cap tilt (SMB 0.644). No statistically significant alpha.
